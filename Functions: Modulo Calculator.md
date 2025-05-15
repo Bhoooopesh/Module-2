@@ -12,8 +12,19 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+def result(a, b):
+    print(a % b)
 
+a = int(input())
+b = int(input())
+
+print("Modulo is:")
+result(a, b)
+
+```
 ## Output
+![image](https://github.com/user-attachments/assets/c6ab607f-6ad0-4690-a22e-fa4963e6e36f)
 
 ## Result
+Program has been executed successfully
